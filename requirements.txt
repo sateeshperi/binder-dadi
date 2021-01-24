@@ -3,4 +3,8 @@ jupyterlab==2.2.8
 pandas==0.25.3
 pyarrow==2.0.0
 voila==0.2.3
+scipy
+numpy
+matplotlib
+nlopt
 dadi
