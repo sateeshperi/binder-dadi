@@ -1,8 +1,12 @@
 name: dadi
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - python
+  - jupyterlab_widgets
+  - ipywidgets
+  - snakemake-minimal
   - numpy
   - scipy
   - dadi
