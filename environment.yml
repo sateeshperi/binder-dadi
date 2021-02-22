@@ -10,6 +10,7 @@ dependencies:
   - numpy
   - scipy
   - dask
+  - dask-jobqueue
   - dadi
   - pip
   - pip:
