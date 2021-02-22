@@ -9,9 +9,10 @@ dependencies:
   - snakemake-minimal
   - numpy
   - scipy
+  - dask
   - dadi
   - pip
   - pip:
     - nlopt
     - matplotlib
-    - papermill
+    - dask-labextension
