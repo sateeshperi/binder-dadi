@@ -6,14 +6,11 @@ dependencies:
   - python
   - jupyterlab_widgets
   - ipywidgets
-  - snakemake-minimal
+  - voila
   - numpy
   - scipy
-  - dask
-  - dask-jobqueue
   - dadi
   - pip
   - pip:
     - nlopt
     - matplotlib
-    - dask-labextension
