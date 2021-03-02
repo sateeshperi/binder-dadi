@@ -10,6 +10,7 @@ dependencies:
   - numpy
   - scipy
   - dadi
+  - ndcctools
   - pip
   - pip:
     - nlopt
